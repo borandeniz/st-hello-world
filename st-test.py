@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_elements import elements, mui, html, sync
+#from streamlit_elements import elements, mui, html, sync
 from PIL import Image
 
 # IMAGES = [
